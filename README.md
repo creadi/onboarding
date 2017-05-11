@@ -24,6 +24,11 @@ To have a common style for git commits, please read the following and then stick
 ## Coding Style Guides
 We care about our code style. That's why every repository has a file for linting and a `.editorconfig` file to help you sticking to it. If you find missing rules, please add them.
 
+Please make sure that you have installed the needed plugins in your editor of choice:
+- Editorconfig: [http://editorconfig.org/](http://editorconfig.org/)
+- Typescript Linter
+- Javascript Linter
+
 ### JavaScript style guide
 We stick to AirBnB's style guide.
 
