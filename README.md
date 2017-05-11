@@ -1,10 +1,9 @@
 # Onboarding
-[TOC]
 
 ## Introduction
 We wish you a very warm welcome here at Creadi and we are very happy to have you working with us.
 
-This repository is made to make sure that everyone working is at the same page.
+This repository is made to make sure that everyone who is working with us is at the same page.
 You will read about our culture, our coding style, our git commit style, almost about anything.
 If you have the feeling that something is missing, please create a pull request.
 
