@@ -17,6 +17,12 @@ That's it. Please take your time reading and have a look at the linked resources
 - We don't hold back information that could potentially help someone else.
 - We address problems immediately.
 
+## Developers Weekly
+Every monday morning at 10:30am we have a short team meeting. It's purpose is:
+- What is coming up this week?
+- What have I done last week?
+- What will I do this week?
+
 ## Git Commits
 To have a common style for git commits, please read the following and then stick to it:
 - [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
