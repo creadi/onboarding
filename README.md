@@ -51,3 +51,11 @@ Code reviews are very important to us. Why?
 - It's a great opportunity to share knowledge
 
 Please be aware that the developer who writes the code and the code reviewer share the responsibility for the code. So try your very best when reviewing code. It's of great importance!
+
+
+## Bibliography
+
+If you want to dive deeper into a topic, here are some good references.
+
+### Typescript
+- [https://github.com/basarat/typescript-book](https://github.com/basarat/typescript-book)
