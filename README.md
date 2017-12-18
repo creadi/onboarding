@@ -27,6 +27,14 @@ Every monday morning at 10:30am we have a short team meeting. It's purpose is:
 To have a common style for git commits, please read the following and then stick to it:
 - [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
 
+__We like to have many small and descriptive commits.__
+
+Why?
+
+- It helps to do one thing after the other and not trying do many things at once.
+- It makes it easier to undo certain code changes
+- It helps the reviewer to first get the goal/intention of the other developer before checking if he agrees in the way it was implemented
+
 ## Coding Style Guides
 We care about our code style. That's why every repository has a file for linting and a `.editorconfig` file to help you sticking to it. If you find missing rules, please add them.
 
