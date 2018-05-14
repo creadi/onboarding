@@ -49,7 +49,7 @@ We stick to AirBnB's style guide.
 - https://github.com/airbnb/javascript
 
 ### TypeScript
-We use TypeScrit wherever possible.
+We use TypeScript wherever possible.
 
 ## Code Reviews
 Code reviews are very important to us. Why?
