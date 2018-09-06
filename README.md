@@ -27,6 +27,9 @@ Every monday morning at 10:30am we have a short team meeting. It's purpose is:
 To have a common style for git commits, please read the following and then stick to it:
 - [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
 
+## Creating Issues
+https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#How_to_report_a_bug
+
 __We like to have many small and descriptive commits.__
 
 Why?
