@@ -9,6 +9,9 @@ If you have the feeling that something is missing, please create a pull request.
 
 That's it. Please take your time reading and have a look at the linked resources. If there are any questions, please ask.
 
+## Introduction to the Insurance Lexicon
+https://www.lemonade.com/insuropedia/dictionary/
+
 ## Culture
 - We care for the team.
 - We are open and honest.
