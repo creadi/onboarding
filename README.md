@@ -18,7 +18,7 @@ That's it. Please take your time reading and have a look at the linked resources
 - We address problems immediately.
 
 ## Developers Weekly
-Every monday morning at 10:30am we have a short team meeting. It's purpose is:
+Every week we have a short team meeting. It's purpose is:
 - What is coming up this week?
 - What have I done last week?
 - What will I do this week?
