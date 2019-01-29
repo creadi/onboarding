@@ -54,6 +54,27 @@ We stick to AirBnB's style guide.
 ### TypeScript
 We use TypeScript wherever possible.
 
+### CSS/SCSS
+- Use stylelint.
+- List properties alphabetically.
+- Use existing framework classes ([Bulma](https://bulma.io)) whenever possible.
+- Avoid `!important`.
+- Use BEM (block, element, modifier) style for class naming. Every component is prefixed with it's name (CamelCase).
+
+#### Example
+```scss 
+// block, e.g. component
+.Box {}
+
+// element
+.Box-header {}
+.Box-body {}
+
+// modifier
+.Box--red {}
+
+```
+
 ## Code Reviews
 Code reviews are very important to us. Why?
 
